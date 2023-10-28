@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://mangalike.org/xmlrpc.php">
+    <meta name="referrer" content="origin">
+    <meta name="apple-mobile-web-app-status-bar" content="#1e73be" />
+    <meta name="theme-color" content="#1e73be" />
+    <link rel="apple-touch-icon" href="https://mangalek.net/wp-content/1.png" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130700610-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130700610-9');
+</script>
+
+<meta name="a.validate.02" content="pvHOyunOk6fbKx1zJgjJnnC3ZVW5k4mbaqH5" />
+
+
+
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>مانجا ليك Mangalek</title>
+	<link rel="canonical" href="https://mangalike.org/" />
+	<meta property="og:locale" content="ar_AR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="مانجا ليك Mangalek" />
+	<meta property="og:url" content="https://mangalike.org/" />
+	<meta property="og:site_name" content="مانجا ليك Mangalek" />
+	<meta property="article:modified_time" content="2021-09-20T17:39:31+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://mangalike.org/","url":"https://mangalike.org/","name":"مانجا ليك Mangalek","isPartOf":{"@id":"https://mangalike.org/#website"},"datePublished":"2021-09-20T15:26:43+00:00","dateModified":"2021-09-20T17:39:31+00:00","breadcrumb":{"@id":"https://mangalike.org/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://mangalike.org/"]}]},{"@type":"BreadcrumbList","@id":"https://mangalike.org/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://mangalike.org/#website","url":"https://mangalike.org/","name":"مانجا ليك Mangalek","description":"افضل موقع للمانجا المترجمة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mangalike.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel="alternate" type="application/rss+xml" title="مانجا ليك Mangalek &laquo; الخلاصة" href="https://mangalike.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="مانجا ليك Mangalek &laquo; خلاصة التعليقات" href="https://mangalike.org/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mangalike.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-rtl-css' href='https://mangalike.org/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.3' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ct-shortcode-css' href='https://mangalike.org/wp-content/plugins/madara-shortcodes/shortcodes/css/shortcodes.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='madara_user_upload_pro_styles-css' href='https://mangalike.org/wp-content/plugins/wp-manga-user-upload-pro/assets/styles.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://mangalike.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://mangalike.org/wp-content/themes/hashirama/app/lib/fontawesome/web-fonts-with-css/css/all.min.css?ver=5.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css' href='https://mangalike.org/wp-content/themes/hashirama/css/fonts/ionicons/css/ionicons.min.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='madara-icons-css' href='https://mangalike.org/wp-content/themes/hashirama/css/fonts/ct-icon/ct-icon.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://mangalike.org/wp-content/themes/hashirama/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://mangalike.org/wp-content/themes/hashirama/js/slick/slick.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css' href='https://mangalike.org/wp-content/themes/hashirama/js/slick/slick-theme.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='loaders-css' href='https://mangalike.org/wp-content/themes/hashirama/css/loaders.min.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='madara-css-css' href='https://mangalike.org/wp-content/themes/hashirama/style.css?ver=6.3' type='text/css' media='all' />
+<style id='madara-css-inline-css' type='text/css'>
+.c-blog__heading.style-2 i {
+						  background: -webkit-linear-gradient(left, #1e73be 40%,#3678c4);
+						  background: -o-linear-gradient(right, #1e73be 40%,#3678c4);
+						  background: -moz-linear-gradient(right, #1e73be 40%,#3678c4);
+						  background: linear-gradient(to right, #1e73be 40%,#3678c4);
+					 ;}.c-blog__heading.style-2 i:after, .settings-page .nav-tabs-wrap ul.nav-tabs li.active:after { border-left-color: #3678c4 ; }.site-header .main-navigation.style-1, .widget-heading, .widget.background:after, .c-blog__heading.style-2 i, .tab-wrap .c-nav-tabs ul.c-tabs-content li.active a:after, .tab-wrap .c-nav-tabs ul.c-tabs-content li:hover a:after, .tab-wrap .c-nav-tabs ul.c-tabs-content li a:after, .related-heading.font-nav, .c-blog__heading.style-3, .settings-page .nav-tabs-wrap ul.nav-tabs li.active a, .off-canvas {
+						  background: -webkit-linear-gradient(left, #1e73be 40%,#3678c4);
+						  background: -o-linear-gradient(right, #1e73be 40%,#3678c4);
+						  background: -moz-linear-gradient(right, #1e73be 40%,#3678c4);
+						  background: linear-gradient(to right, #1e73be 40%,#3678c4);
+					 ;}.widget-heading:after, .related-heading.font-nav:after, .genres_wrap .c-blog__heading.style-3.active:after { border-top-color: #1e73be ;}body.modal-open .modal .modal-content a:hover, .tab-wrap .c-nav-tabs ul.c-tabs-content li.active a, .tab-wrap .c-nav-tabs ul.c-tabs-content li:hover a, body.search.search-results .search-wrap .tab-content-wrap .c-tabs-item .c-tabs-item__content .tab-summary .post-content .post-content_item .summary-content:not(.release-year) a:hover, body.search.search-results .search-wrap .tab-content-wrap .c-tabs-item .c-tabs-item__content .tab-summary .post-content .post-content_item .summary-content.release-year a:hover, .c-blog-post .entry-header .entry-meta .post-on:before, .manga-slider .slider__container .slick-dots li.slick-active button:before, .manga-slider .slider__container .slick-dots li button:hover:before, body.manga-page .profile-manga .tab-summary .summary_content_wrap .summary_content .post-status .manga-action .count-comment .action_icon a i, body.manga-page .profile-manga .tab-summary .summary_content_wrap .summary_content .post-status .manga-action .add-bookmark .action_icon a i, body.manga-page .profile-manga .tab-summary .summary_content_wrap .summary_content .post-status .manga-action .count-comment .action_detail a i, body.manga-page .profile-manga .tab-summary .summary_content_wrap .summary_content .post-status .manga-action .add-bookmark .action_detail a i, body.manga-page .profile-manga .post-title a, body.manga-page .content-readmore:hover, body.text-ui-light.manga-page .content-readmore:hover, .genres_wrap .genres__collapse .genres ul li a:hover, .genres_wrap .genres__collapse .genres ul li a:hover:before, .c-blog-post .entry-header .entry-meta .post-on .posted-on a:hover, body.search .c-search-header__wrapper #search-advanced .search-advanced-form .form-group.checkbox-group .checkbox label:hover, .site-header .main-navigation .search-navigation .menu-search .open-search-main-menu, .c-btn.c-btn_style-2, body.search .c-search-header__wrapper .search-content .btn-search-adv, body.reading-manga .entry-header .entry-header_wrap .action-icon ul li a, body.reading-manga .c-select-bottom .entry-header_wrap .action-icon ul li a, .widget.c-released .released-item-wrap ul.list-released li a:hover, body.manga-page .profile-manga .post-title h1, .genres_wrap .genres__collapse #genres ul li:hover a, .genres_wrap .genres__collapse #genres ul li:hover a:before, input[type=checkbox]:checked + label:before, input[type=radio]:checked + label:before, .genres_wrap a.btn-genres, .c-breadcrumb .breadcrumb li a:hover, body.search.search-results .search-wrap .tab-content-wrap .c-tabs-item .c-tabs-item__content .tab-summary .post-content .post-content_item.mg_genres .summary-content, body.page .c-page-content .c-page .c-page__content .page-content-listing .page-listing-item .page-item-detail .item-summary .list-chapter .chapter-item .vol a:hover, #hover-infor .item_thumb .post-title a, body.manga-page .version-chap:before, body.manga-page .content-readmore:hover, body.manga-page .chapter-readmore:hover, .icon-load-info, .c-blog-post .entry-header .entry-meta .post-on .c-blog__date .post-category a:hover, .woocommerce ul.products li.product .price, .woocommerce div.entry-summary p.price, .woocommerce div.entry-summary form.cart .variations .label, .woocommerce div.entry-summary form.cart .quantity-text, .widget_product_categories .product-categories li a:hover, .woocommerce ul.products li.product h2:hover, .woocommerce .c-woo-breadcrumb a:hover, .site-header .c-sub-header-nav .c-sub-nav_wrap .c-modal_item .c-user_item .c-user_menu a:hover, .site-header .c-sub-header-nav .c-sub-nav_wrap .sub-nav_content .sub-nav_list li:hover > a, .settings-page .action i.ion-ios-close:hover:before, .settings-page .list-chapter .chapter-item a:hover, .settings-page .tabs-content-wrap .tab-group-item .tab-item .history-content .item-infor .chapter span a, .settings-page .nav-tabs-wrap ul.nav-tabs li:not(.active):hover a, .main-color,
+.site-header .c-sub-header-nav .c-sub-nav_wrap .sub-nav_content .sub-nav_list li.menu-item-has-children.active > a,.woocommerce .woocommerce-ordering:after,.text-ui-light .widget.c-popular .popular-item-wrap .popular-content .chapter-item .chapter a:hover, body.text-ui-light .settings-page .list-chapter .chapter-item .chapter a:hover,body.search.text-ui-light .search-wrap .tab-content-wrap .c-tabs-item .c-tabs-item__content .tab-meta .latest-chap .chapter a:hover			{ color: #1e73be ;}.c-blog__heading.style-2 i:after{border-right-color:#1e73be !important}body.page.text-ui-light .c-page-content .c-page .c-page__content .page-content-listing .page-listing-item .page-item-detail .item-summary .list-chapter .chapter-item .chapter a:hover, .text-ui-light .widget.c-popular .popular-item-wrap .popular-content .chapter-item .chapter a:hover,#hover-infor .item_thumb .post-title a{color: #FFFFFF}.navigation-ajax .load-ajax:not(.show-loading):hover, .listing-chapters_wrap .has-child .wp-manga-chapter:before, .c-wg-button-wrap .btn:hover, body.manga-page .page-content-listing.single-page .listing-chapters_wrap ul.main.version-chap .wp-manga-chapter:before, .site-header .search-main-menu form input[type=submit], .form-submit input[type=submit], #comments.comments-area #respond.comment-respond .comment-form .form-submit #submit, .c-btn.c-btn_style-1, .settings-page input[type="submit"], .settings-page .remove-all #delete-bookmark-manga, body.manga-page .page-content-listing.single-page .listing-chapters_wrap > ul.main.version-chap li .wp-manga-chapter:before, .woocommerce ul.products li.product .button, .woocommerce span.onsale, .woocommerce .widget_price_filter .price_slider_amount .button:not(:hover), .woocommerce .woocommerce-pagination .page-numbers li span.current, .woocommerce .woocommerce-pagination .page-numbers li .prev:hover, .woocommerce .woocommerce-pagination .page-numbers li .next:hover, .woocommerce div.entry-summary form.cart .single_add_to_cart_button { background: #1e73be ;}.navigation-ajax .load-ajax:not(.show-loading):hover, .popular-slider .slider__container .slider__item .slider__content .slider__content_item .chapter-item .chapter a:hover, body.search .c-search-header__wrapper .search-content .btn-search-adv.collapsed, .c-btn.c-btn_style-2, body.search .c-search-header__wrapper .search-content .btn-search-adv, .genres_wrap a.btn-genres, .wpcf7-validation-errors, .text-ui-light.woocommerce-page input[type="text"]:focus, .text-ui-light.woocommerce-page input[type="email"]:focus, .text-ui-light.woocommerce-page input[type="search"]:focus, .text-ui-light.woocommerce-page input[type="url"]:focus, .text-ui-light.woocommerce-page input[type="password"]:focus, .text-ui-light.woocommerce-page input[type="tel"]:focus, .text-ui-light.woocommerce-page .input-text:focus, .text-ui-light.woocommerce-page input[type="text"]:active, .text-ui-light.woocommerce-page input[type="email"]:active, .text-ui-light.woocommerce-page input[type="search"]:active, .text-ui-light.woocommerce-page input[type="url"]:active, .text-ui-light.woocommerce-page input[type="password"]:active, .text-ui-light.woocommerce-page input[type="tel"]:active, .text-ui-light.woocommerce-page .input-text:active, .text-ui-light.woocommerce-page input[type="text"]:hover, .text-ui-light.woocommerce-page input[type="email"]:hover, .text-ui-light.woocommerce-page input[type="search"]:hover, .text-ui-light.woocommerce-page input[type="url"]:hover, .text-ui-light.woocommerce-page input[type="password"]:hover, .text-ui-light.woocommerce-page input[type="tel"]:hover, .text-ui-light.woocommerce-page .input-text:hover, .text-ui-light.woocommerce-page select.orderby:hover  { border-color: #1e73be ;}.site-header .c-sub-header-nav .c-sub-nav_wrap .sub-nav_content .sub-nav_list > li.menu-item-has-children > ul.sub-menu, .site-header .c-sub-header-nav .c-sub-nav_wrap .c-modal_item .c-user_item .c-user_menu { border-bottom-color: #1e73be ;}.widget.widget_tag_cloud .tag-cloud-link:hover, body.page .c-page-content .c-page .c-page__content .page-content-listing .page-listing-item .page-item-detail .item-summary .list-chapter .chapter-item .chapter:hover, .popular-slider .slider__container .slider__item .slider__content .slider__content_item .chapter-item .chapter a:hover, .widget.c-popular .popular-item-wrap .popular-content .chapter-item .chapter:hover, .site-footer .top-footer .wrap_social_account ul.social_account__item li a, .site-content .main-col .item-tags ul li a:hover, .popular-slider .slider__container .slick-arrow:hover, .widget.background.widget_tag_cloud .tag-cloud-link:hover, .wp-pagenavi a:hover, body.search.search-results .search-wrap .tab-content-wrap .c-tabs-item .c-tabs-item__content .tab-meta .latest-chap .chapter:hover, .go-to-top:hover, .widget.c-popular .widget-view-more, body.search .c-search-header__wrapper .search-content .search-form .search-submit, body.reading-manga .entry-header .select-pagination .nav-links .nav-next a:not(:hover), body.reading-manga .c-select-bottom .select-pagination .nav-links .nav-next a:not(:hover), body.reading-manga .entry-header .entry-header_wrap .action-icon ul li:hover a, body.reading-manga .c-select-bottom .entry-header_wrap .action-icon ul li:hover a, .widget.c-released .released-search form [type="submit"], body.manga-page .profile-manga .tab-summary .loader-inner > div, .wpcf7-submit, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .woocommerce-cart-form .cart button.button, .woocommerce .cart input.button:not(:hover), #adult_modal .modal-footer .btn.btn-primary:not(:hover), body.reading-manga .entry-header .select-pagination .nav-links > * a, body.reading-manga .c-select-bottom .select-pagination .nav-links > * a, .settings-page .list-chapter .chapter-item .chapter:hover, body.modal-open .modal .modal-content .modal-body .login .submit .wp-submit:not(:hover), .settings-page .tabs-content-wrap .my_account_orders a.button.view, .main-bg, #madara-comments.comments-area #respond.comment-respond .comment-form .form-submit #submit, body.search .c-search-header__wrapper .search-content .btn-search-adv { background-color: #1e73be ;}:root{ --madara-main-color: #1e73be}body.search.search-results .search-wrap .tab-content-wrap .c-tabs-item .c-tabs-item__content .tab-meta .latest-chap .chapter:hover a, .wp-pagenavi a:hover{color:#FFF !important}.widget.c-popular .widget-view-more, #comments.comments-area #respond.comment-respond .comment-form .form-submit #submit, .site-header .search-main-menu form input[type=submit], body.search .c-search-header__wrapper .search-content .search-form .search-submit, .c-btn.c-btn_style-1, .settings-page input[type="submit"], .settings-page .remove-all #delete-bookmark-manga, body.reading-manga .entry-header .select-pagination .nav-links .nav-next a:not(:hover), body.reading-manga .c-select-bottom .select-pagination .nav-links .nav-next a:not(:hover), body.reading-manga .entry-header .select-pagination .nav-links .nav-previous a:not(:hover), body.reading-manga .c-select-bottom .select-pagination .nav-links .nav-previous a:not(:hover), .widget.c-released .released-search form [type="submit"], .wpcf7-submit, .woocommerce ul.products li.product .button, .woocommerce .woocommerce-pagination .page-numbers li span.current, .woocommerce .widget_shopping_cart .buttons a:not(:hover), .woocommerce.widget_shopping_cart .buttons a:not(:hover), .widget_price_filter .price_slider_amount button, .woocommerce div.product form.cart .button, .woocommerce .cart-collaterals .checkout-button.button.alt, .woocommerce button.button.alt, .woocommerce a.button.alt, .woocommerce .woocommerce-cart-form .cart button.button, .woocommerce .woocommerce-cart-form .cart button.button, .woocommerce .cart input.button:not(:hover),#init-links .c-btn.c-btn_style-1 { color : #000000 ;}body, #comments.comments-area #respond.comment-respond .comment-form > *, body.manga-page .profile-manga .tab-summary .post-content_item > *, body.manga-page .profile-manga .post-status .post-content_item > *, body.manga-page .content-readmore, .widget.my-history .my-history-item-wrap > *, .widget table#wp-calendar > thead > tr > td, .widget table#wp-calendar tbody > tr > td, .widget table#wp-calendar tfoot > tr > td, .widget table#wp-calendar > thead > tr > th, .widget table#wp-calendar tbody > tr > th, .widget table#wp-calendar tfoot > tr > th, .paging-navigation .nav-links .nav-button > a, .widget.widget_rss ul li .rssSummary, body.modal-open .modal .modal-content .modal-body .login label, body.modal-open .modal .modal-content .modal-body .login .submit .wp-submit, body.search .c-search-header__wrapper #search-advanced .search-advanced-form .form-group:not(.checkbox-group) > *, .c-breadcrumb .breadcrumb li a {font-size: 16px}body, .font-meta a, body.reading-manga .entry-header .select-pagination .nav-links .nav-next a, body.reading-manga .c-select-bottom .select-pagination .nav-links .nav-next a, body.manga-page .content-readmore, .c-blog-post .entry-content .entry-content_wrap, body.search .c-search-header__wrapper #search-advanced .search-advanced-form .form-group:not(.checkbox-group) > *, .c-breadcrumb .breadcrumb li a {line-height: 1.6}h1, .h1 {line-height: 1.3em}h2, .h2 {font-size: 32px}h2, .h2 {line-height: 1.3em}h3, .h3 {font-size: 26px}h3, .h3 {line-height: 1.6em}h4, .h4 {font-size: 20px}h4, .h4 {line-height: 1.4em}h5, .h5 {font-size: 19px}h5, .h5 {line-height: 1.5em}h6, .h6 {font-size: 16px}h6, .h6 {line-height: 1.4em}h6, .h6{font-weight: 500}.main-navigation .main-menu a, .second-menu a, .main-navigation .main-menu ul li > a, .main-navigation .main-menu ul li a, .site-header .c-sub-header-nav .c-sub-nav_wrap .c-modal_item .c-user_item span, .site-header .c-sub-header-nav .c-sub-nav_wrap .c-modal_item .c-user_item .c-user_menu a, .site-header .c-sub-header-nav .c-sub-nav_wrap .c-modal_item .btn-active-modal, .site-header .main-navigation.style-1 .search-navigation .search-navigation__wrap .link-adv-search a {font-size: 17px}
+			#pageloader.spinners{
+				position:fixed;
+				top:0;
+				left:0;
+				width:100%;
+				height:100%;
+				z-index:99999;
+				background:#222
+			}
+		
+			p.madara-unyson{
+				color: #FF0000;
+			}
+		
+			.table.table-hover.list-bookmark tr:last-child td{
+				text-align: center;
+			}
+		#adminmenu .wp-submenu li.current { display: none !important;}.show_tgmpa_version{ float: right; padding: 0em 1.5em 0.5em 0; }.tgmpa > h2{ font-size: 23px; font-weight: 400; line-height: 29px; margin: 0; padding: 9px 15px 4px 0;}.update-php{ width: 100%; height: 98%; min-height: 850px; padding-top: 1px; }@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+				/* Retina Logo */
+				.site-header .c-header__top .wrap_branding a {background:url(https://mangalike.org/wp-content/mangalek.png) no-repeat center; background-size:contain; display:block; max-width: 100%}
+				.site-header .c-header__top .wrap_branding a img{ opacity:0; visibility:hidden;}
+			}.c-blog-post .entry-content .entry-content_wrap .read-container img.alignleft { margin: 10px 30px 10px 0 !important; } .c-blog-post .entry-content .entry-content_wrap .read-container img.alignright { margin: 10px 0px 10px 30px !important; } .read-container i.fas.fa-spinner.fa-spin{ font-size: 31px; color: #888; }.c-blog-post .entry-content .entry-content_wrap .read-container img{ cursor : pointer; }.choose-avatar .loading-overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background-color: rgba(255, 255, 255, 0.72);
+			z-index: 1;
+			display: none;
+		}
+
+		.choose-avatar .loading-overlay i.fas.fa-spinner {
+			font-size: 40px;
+			color: #ec3348;
+		}
+
+		.choose-avatar .loading-overlay .loading-icon {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%,-50%);
+		}
+
+		.choose-avatar.uploading .loading-overlay {
+			display: block;
+		}.site-header .c-sub-header-nav .entry-header {
+			display: none;
+			margin-bottom: 15px;
+		}
+
+		.site-header .c-sub-header-nav.sticky .entry-header {
+			display: block;
+		}
+
+		.site-header .c-sub-header-nav.hide-sticky-menu.sticky .c-sub-nav_wrap{
+			display:none;
+		}
+		.site-header .c-sub-header-nav.hide-sticky-menu .entry-header{
+			margin-top:15px;
+		}
+		body.page .c-page-content .c-page .c-page__content .page-content-listing .page-listing-item .page-item-detail .item-summary .list-chapter .chapter-item span.vol.font-meta{display:none}.chapter-type-manga .c-blog-post .entry-content .entry-content_wrap .reading-content::before {
+				content: ' ';
+				display: block;
+				width: 100%;
+				height: 100%;
+				position: absolute;
+			}@media (max-width: 480px) {.c-blog-post .entry-content .entry-content_wrap .reading-content{margin-left:-15px;margin-right:-15px}}.action_detail{display:none}
+.reading-manga .c-user_item{display:none}
+</style>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/wp-manga-user-upload-pro//assets/helpers.js?ver=1.0' id='madara-user-upload-pro-helpers-js'></script>
+<script type='text/javascript' id='muupro-add-manga-form-js-extra'>
+/* <![CDATA[ */
+var muupro_addmangaform = {"url":"https:\/\/mangalike.org\/wp-admin\/admin-ajax.php","messages":{"badge_maximum_characters":"Maximum 5 characters for badge"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/wp-manga-user-upload-pro//assets/add-manga.js?ver=1.0' id='muupro-add-manga-form-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.min.js?ver=4.0.5' id='select2-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.js?ver=3.7.2' id='dragula-js'></script>
+<script type='text/javascript' id='muupro-chapter-form-js-extra'>
+/* <![CDATA[ */
+var uploadChapter = {"url":"https:\/\/mangalike.org\/wp-admin\/admin-ajax.php","nonce":"3e105ba27f","messages":{"remove_image":"Remove image","confirm_remove_image":"Confirm to remove this image","missing_value":"%s \u0644\u0627 \u064a\u0645\u0643\u0646 \u062a\u0631\u0643\u0647 \u0641\u0627\u0631\u063a","missing_files":"Please select chapter images","invalid_number":"Chapter number must be numeric","select_manga":"\u0627\u062e\u062a\u0631 \u0645\u0627\u0646\u062c\u0627","no_volume":"-- No Volume --","please_enter_volume":"If you want to create a new volume, please enter volume name","no_results_found":"No Manga yet!"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/wp-manga-user-upload-pro//assets/upload-chapter.js?ver=1.0' id='muupro-chapter-form-js'></script>
+<link rel="https://api.w.org/" href="https://mangalike.org/wp-json/" /><link rel="alternate" type="application/json" href="https://mangalike.org/wp-json/wp/v2/pages/23062" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mangalike.org/xmlrpc.php?rsd" />
+<link rel="stylesheet" href="https://mangalike.org/wp-content/themes/hashirama/rtl.css" type="text/css" media="screen" /><meta name="generator" content="WordPress 6.3" />
+<link rel='shortlink' href='https://mangalike.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://mangalike.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmangalike.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mangalike.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmangalike.org%2F&#038;format=xml" />
+<link rel="icon" href="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-270x270.png" />
+<meta property="og:image" content="https://mangalike.org/wp-content/mangalek.png"/>
+<meta property="og:site_name" content="مانجا ليك Mangalek"/>
+<meta property="fb:app_id" content="" />
+<meta property="og:title" content="مانجا ليك Mangalekمانجا ليك Mangalek"/>
+<meta property="og:description" content="افضل موقع للمانجا المترجمة"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@مانجا ليك Mangalek" />
+<meta name="twitter:title" content="مانجا ليك Mangalekمانجا ليك Mangalek" />
+<meta name="twitter:description" content="افضل موقع للمانجا المترجمة" />
+<meta name="twitter:image" content="https://mangalike.org/wp-content/mangalek.png" />
+<meta name="description" content="افضل موقع للمانجا المترجمة" /><meta name="generator" content="Powered by Madara - A powerful multi-purpose theme by Madara" />
+</head>
+
+<body class="rtl home page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php page page-id-23062 wp-embed-responsive header-style-1 text-ui-dark minimal-reading-layout sticky-for-mobile">
+
+
+
+<div class="wrap">
+    <div class="body-wrap">
+		        <header class="site-header">
+            <div class="c-header__top">
+                <ul class="search-main-menu">
+                    <li>
+                        <form id="blog-post-search" class="" action="https://mangalike.org/" method="get">
+                            <input type="text" placeholder="كلمة البحث....." name="s" value="">
+                            <input type="submit" value="ابحث">
+                            <div class="loader-inner line-scale">
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </form>
+                    </li>
+                </ul>
+                <div class="main-navigation style-1 ">
+                    <div class="container ">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="main-navigation_wrap">
+                                    <div class="wrap_branding">
+                                        <a class="logo" href="https://mangalike.org/" title="مانجا ليك Mangalek" data-wpel-link="internal">
+											                                            <img class="img-responsive" src="https://mangalike.org/wp-content/mangalek.png" alt="مانجا ليك Mangalek"/>
+                                        </a>
+                                    </div>
+
+									    <div class="main-menu">
+		        <ul class="nav navbar-nav main-navbar">
+            <li><a href="https://mangalike.org/" data-wpel-link="internal">الرئيسية</a></li>
+        </ul>
+	    </div>
+
+    <div class="search-navigation search-sidebar">
+
+		
+            <div class="search-navigation__wrap">
+                <ul class="main-menu-search nav-menu">
+                    <li class="menu-search">
+                        <a href="javascript:;" class="open-search-main-menu" data-wpel-link="internal"> <i class="icon ion-ios-search"></i>
+                            <i class="icon ion-android-close"></i> </a>
+
+                    </li>
+                </ul>
+            </div>
+		    </div>
+    <div class="c-togle__menu">
+        <button type="button" class="menu_icon__open">
+            <span></span> <span></span> <span></span>
+        </button>
+    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+			
+<div class="mobile-menu menu-collapse off-canvas">
+    <div class="close-nav">
+        <button class="menu_icon__close">
+            <span></span> <span></span>
+        </button>
+    </div>
+
+	
+        <div class="c-modal_item">
+            <!-- Button trigger modal -->
+            <span class="c-modal_sign-in">
+                <a href="#" data-toggle="modal" data-target="#form-login" class="btn-active-modal">تسجيل الدخول</a>
+            </span>
+
+            <span class="c-modal_sign-up">
+                <a href="javascript:void(0)" data-toggle="modal" data-target="#form-sign-up" class="btn-active-modal" data-wpel-link="internal">التسجيل</a>
+            </span>
+
+        </div>
+
+	
+    <nav class="off-menu">
+		<div class="nav navbar-nav main-navbar"><ul>
+<li id="nav-menu-item-5472" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/english/" class="menu-link  main-menu-link">English </a></li>
+<li id="nav-menu-item-8" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/home/" class="menu-link  main-menu-link">home </a></li>
+<li id="nav-menu-item-6" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/manga/" class="menu-link  main-menu-link">Manga </a></li>
+<li id="nav-menu-item-23022" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/manga-2/" class="menu-link  main-menu-link">Manga </a></li>
+<li id="nav-menu-item-23062" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/" class="menu-link  main-menu-link">net </a></li>
+<li id="nav-menu-item-51780" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/ozulscans/" class="menu-link  main-menu-link">Ozulscans </a></li>
+<li id="nav-menu-item-3" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/privacy-policy/" class="menu-link  main-menu-link">Privacy Policy </a></li>
+<li id="nav-menu-item-2" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/sample-page/" class="menu-link  main-menu-link">Sample Page </a></li>
+<li id="nav-menu-item-5" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/user-settings/" class="menu-link  main-menu-link">إعدادات المستخدم </a></li>
+<li id="nav-menu-item-1224" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/latest/" class="menu-link  main-menu-link">احدث الفصول </a></li>
+<li id="nav-menu-item-42656" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/report/" class="menu-link  main-menu-link">الابلاغ عن مشكلة باحد الفصول </a></li>
+<li id="nav-menu-item-33570" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/installapp/" class="menu-link  main-menu-link">تثبيت التطبيق </a></li>
+<li id="nav-menu-item-63022" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/login/" class="menu-link  main-menu-link">تسجيل الدخول </a></li>
+<li id="nav-menu-item-17780" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/app/" class="menu-link  main-menu-link">تطبيق مانجا ليك </a></li>
+<li id="nav-menu-item-45983" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/app-offline/" class="menu-link  main-menu-link">تطبيق مانجا ليك الاوفلاين </a></li>
+<li id="nav-menu-item-79143" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/golden-manga/" class="menu-link  main-menu-link">جولدن مانجا Golden Manga </a></li>
+<li id="nav-menu-item-39069" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/gmanga/" class="menu-link  main-menu-link">جي مانجا GMANGA </a></li>
+<li id="nav-menu-item-82551" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/solve/" class="menu-link  main-menu-link">حل مشاكل الموقع </a></li>
+<li id="nav-menu-item-43975" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/discord/" class="menu-link  main-menu-link">ديسكورد Discord </a></li>
+<li id="nav-menu-item-24090" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/upload/" class="menu-link  main-menu-link">رفع فصول </a></li>
+<li id="nav-menu-item-39357" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/gmanga-home/" class="menu-link  main-menu-link">فريق جي مانجا GMANGA </a></li>
+<li id="nav-menu-item-39061" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/manga-noon/" class="menu-link  main-menu-link">فريق مانجا نون </a></li>
+<li id="nav-menu-item-67" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/mangalist/" class="menu-link  main-menu-link">قائمة المانجا </a></li>
+<li id="nav-menu-item-3400" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/mangaspark/" class="menu-link  main-menu-link">مانجا سبارك </a></li>
+<li id="nav-menu-item-3396" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/mangastarz/" class="menu-link  main-menu-link">مانجا ستارز </a></li>
+<li id="nav-menu-item-30441" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/lek/" class="menu-link  main-menu-link">مانجا ليك </a></li>
+<li id="nav-menu-item-26745" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/mangalik/" class="menu-link  main-menu-link">مانجا ليك Mangalek </a></li>
+<li id="nav-menu-item-11668" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/mangalek/" class="menu-link  main-menu-link">مانجا ليك Mangalek </a></li>
+<li id="nav-menu-item-1202" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/mangalink/" class="menu-link  main-menu-link">مانجا لينك Mangalink </a></li>
+<li id="nav-menu-item-8474" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/mangalionz/" class="menu-link  main-menu-link">مانجا ليونز </a></li>
+<li id="nav-menu-item-39361" class="main-menu-item menu-item-depth-0 "><a href="https://mangalike.org/noon-home/" class="menu-link  main-menu-link">مانجا نون MangaNoon </a></li>
+</ul></div>
+    </nav>
+</div>
+			        <div class="no-subnav c-sub-header-nav with-border  hide-sticky-menu">
+            <div class="container ">
+                <div class="c-sub-nav_wrap">
+                    <div class="sub-nav_content">
+                        <ul class="sub-nav_list list-inline second-menu">
+							                            
+                        </ul>
+                    </div>
+
+					                        <div class="c-modal_item">
+                            <!-- Button trigger modal -->
+                            <a href="javascript:void(0)" data-toggle="modal" data-target="#form-login" class="btn-active-modal" data-wpel-link="internal">تسجيل الدخول</a>
+                            <a href="javascript:void(0)" data-toggle="modal" data-target="#form-sign-up" class="btn-active-modal" data-wpel-link="internal">التسجيل</a>
+                        </div>
+					                </div>
+
+				            </div>
+        </div>
+
+	
+        </header>
+
+		
+			
+			
+					        <div class="site-content">
+        
+    <div class="c-page-content style-1">
+        <div class="content-area" style="">
+            <div class="container">
+                <div class="row ">
+                                        <div class="main-col sidebar-hidden col-md-12 col-sm-12">
+
+						<div class="ad c-ads custom-code body-top-ads"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8495016549403735"></script></div>
+
+
+                        <div class="main-col-inner c-page">
+
+							
+                            <div class="c-blog-listing c-page__content manga_content">
+                                <div class="c-blog__inner">
+                                    <div class="c-blog__content">
+																					
+                                            <div id="loop-content" class="page-content-listing item-big_thumbnail">
+
+
+												
+												
+													<div class="page-listing-item">
+    <div class="row row-eq-height">
+		
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-33744" class="item-thumb  c-image-hover" data-post-id="33744">
+					                            <a href="https://mangalike.org/manga/the-male-lead-is-mine/" title="The Male Lead Is Mine" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2022/03/The-Male-Lead-Is-Mine-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2022/03/The-Male-Lead-Is-Mine-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2022/03/The-Male-Lead-Is-Mine-220x300.jpg 220w, https://mangalike.org/wp-content/uploads/2022/03/The-Male-Lead-Is-Mine-110x150.jpg 110w, https://mangalike.org/wp-content/uploads/2022/03/The-Male-Lead-Is-Mine.jpg 450w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="The Male Lead Is Mine"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/the-male-lead-is-mine/" data-wpel-link="internal">The Male Lead Is Mine</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.2</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-male-lead-is-mine/31/" class="btn-link" data-wpel-link="internal"> 31 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-male-lead-is-mine/31/" title="4 دقائق ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="4 دقائق ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-male-lead-is-mine/30-5/" class="btn-link" data-wpel-link="internal"> 30.5 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 8, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82858" class="item-thumb  c-image-hover" data-post-id="82858">
+					                            <a href="https://mangalike.org/manga/mine-and-samsins-horrormance/" title="Mine and Samsin&#8217;s Horrormance" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/Mine-and-Samsins-Horrormance-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/Mine-and-Samsins-Horrormance-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/Mine-and-Samsins-Horrormance-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Mine and Samsin&#8217;s Horrormance"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/mine-and-samsins-horrormance/" data-wpel-link="internal">Mine and Samsin&#8217;s Horrormance</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/mine-and-samsins-horrormance/1/" class="btn-link" data-wpel-link="internal"> 1 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/mine-and-samsins-horrormance/1/" title="8 دقائق ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="8 دقائق ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/mine-and-samsins-horrormance/n-a/" class="btn-link" data-wpel-link="internal"> 0 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/mine-and-samsins-horrormance/n-a/" title="8 دقائق ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="8 دقائق ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-200" class="item-thumb  c-image-hover" data-post-id="200">
+					                            <a href="https://mangalike.org/manga/study-group/" title="Study Group" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2020/05/Study-Group-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2020/05/Study-Group-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2020/05/Study-Group-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Study Group"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/study-group/" data-wpel-link="internal">Study Group</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/study-group/221/" class="btn-link" data-wpel-link="internal"> 221 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/study-group/221/" title="13 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="13 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/study-group/220/" class="btn-link" data-wpel-link="internal"> 220 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 6, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82970" class="item-thumb  c-image-hover" data-post-id="82970">
+					                            <a href="https://mangalike.org/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanara/" title="Akuyaku Reijou to Akuyaku Reisoku ga, Deatte Koi ni Ochitanara" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/Akuyaku-Reijou-to-Akuyaku-Reisoku-ga-Deatte-Koi-ni-Ochitanara-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/Akuyaku-Reijou-to-Akuyaku-Reisoku-ga-Deatte-Koi-ni-Ochitanara-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/Akuyaku-Reijou-to-Akuyaku-Reisoku-ga-Deatte-Koi-ni-Ochitanara-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Akuyaku Reijou to Akuyaku Reisoku ga, Deatte Koi ni Ochitanara"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanara/" data-wpel-link="internal">Akuyaku Reijou to Akuyaku Reisoku ga, Deatte Koi ni Ochitanara</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanara/6/" class="btn-link" data-wpel-link="internal"> 6 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanara/6/" title="19 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="19 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanara/5/" class="btn-link" data-wpel-link="internal"> 5 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanara/5/" title="19 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="19 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82872" class="item-thumb  c-image-hover" data-post-id="82872">
+					                            <a href="https://mangalike.org/manga/imouto-wa-neko/" title="Imouto wa Neko" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/Imouto-wa-Neko-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/Imouto-wa-Neko-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/Imouto-wa-Neko-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Imouto wa Neko"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/imouto-wa-neko/" data-wpel-link="internal">Imouto wa Neko</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/imouto-wa-neko/1/" class="btn-link" data-wpel-link="internal"> 1 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/imouto-wa-neko/1/" title="30 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="30 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-8089" class="item-thumb  c-image-hover" data-post-id="8089">
+					                            <a href="https://mangalike.org/manga/kengan-omega/" title="Kengan Omega" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2020/12/Screenshot_2020-12-21-Kengan-Omega-Google-Search-175x238.png" srcset="https://mangalike.org/wp-content/uploads/2020/12/Screenshot_2020-12-21-Kengan-Omega-Google-Search-175x238.png 175w, https://mangalike.org/wp-content/uploads/2020/12/Screenshot_2020-12-21-Kengan-Omega-Google-Search-110x150.png 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Kengan Omega"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/kengan-omega/" data-wpel-link="internal">Kengan Omega</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.1</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/kengan-omega/192/" class="btn-link" data-wpel-link="internal"> 192 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/kengan-omega/192/" title="33 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="33 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/kengan-omega/191/" class="btn-link" data-wpel-link="internal"> 191 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/kengan-omega/191/" title="13 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="13 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		    </div>
+</div>
+
+												
+													<div class="page-listing-item">
+    <div class="row row-eq-height">
+		
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82866" class="item-thumb  c-image-hover" data-post-id="82866">
+					                            <a href="https://mangalike.org/manga/kirameku-koi-wa-isekai-de/" title="Kirameku Koi Wa Isekai De" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/Kirameku-Koi-Wa-Isekai-De-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/Kirameku-Koi-Wa-Isekai-De-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/Kirameku-Koi-Wa-Isekai-De-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Kirameku Koi Wa Isekai De"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/kirameku-koi-wa-isekai-de/" data-wpel-link="internal">Kirameku Koi Wa Isekai De</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/kirameku-koi-wa-isekai-de/1/" class="btn-link" data-wpel-link="internal"> 1 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/kirameku-koi-wa-isekai-de/1/" title="36 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="36 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82861" class="item-thumb  c-image-hover" data-post-id="82861">
+					                            <a href="https://mangalike.org/manga/kimetsu-no-yaiba-yoshirou-epilogue/" title="Kimetsu no Yaiba: Yoshirou Epilogue" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/ddddddddddddddddddddddddd-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/ddddddddddddddddddddddddd-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/ddddddddddddddddddddddddd-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Kimetsu no Yaiba: Yoshirou Epilogue"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/kimetsu-no-yaiba-yoshirou-epilogue/" data-wpel-link="internal">Kimetsu no Yaiba: Yoshirou Epilogue</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/kimetsu-no-yaiba-yoshirou-epilogue/1/" class="btn-link" data-wpel-link="internal"> 1 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/kimetsu-no-yaiba-yoshirou-epilogue/1/" title="43 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="43 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-5202" class="item-thumb  c-image-hover" data-post-id="5202">
+					                            <a href="https://mangalike.org/manga/the-ravages-of-time/" title="The Ravages of Time" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2020/11/The-Ravages-of-Time-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2020/11/The-Ravages-of-Time-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2020/11/The-Ravages-of-Time-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="The Ravages of Time"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/the-ravages-of-time/" data-wpel-link="internal">The Ravages of Time</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">3.5</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-ravages-of-time/507/" class="btn-link" data-wpel-link="internal"> 507 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-ravages-of-time/507/" title="49 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="49 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-ravages-of-time/506/" class="btn-link" data-wpel-link="internal"> 506 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-ravages-of-time/506/" title="49 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="49 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-69783" class="item-thumb  c-image-hover" data-post-id="69783">
+					                            <a href="https://mangalike.org/manga/i-will-seduce-the-male-lead-for-my-older-brother/" title="I Will Seduce the Male Lead for My Older Brother" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/05/30/I-Will-Seduce-the-Male-Lead-for-My-Older-Brother-1-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/05/30/I-Will-Seduce-the-Male-Lead-for-My-Older-Brother-1-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/05/30/I-Will-Seduce-the-Male-Lead-for-My-Older-Brother-1-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="I Will Seduce the Male Lead for My Older Brother"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/i-will-seduce-the-male-lead-for-my-older-brother/" data-wpel-link="internal">I Will Seduce the Male Lead for My Older Brother</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/i-will-seduce-the-male-lead-for-my-older-brother/11/" class="btn-link" data-wpel-link="internal"> 11 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/i-will-seduce-the-male-lead-for-my-older-brother/11/" title="51 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="51 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/i-will-seduce-the-male-lead-for-my-older-brother/10/" class="btn-link" data-wpel-link="internal"> 10 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 7, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82199" class="item-thumb  c-image-hover" data-post-id="82199">
+					                            <a href="https://mangalike.org/manga/the-method-acting-princess/" title="The Method Acting Princess" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/The-Method-Acting-Princess-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/The-Method-Acting-Princess-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/The-Method-Acting-Princess-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="The Method Acting Princess"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/the-method-acting-princess/" data-wpel-link="internal">The Method Acting Princess</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-method-acting-princess/7/" class="btn-link" data-wpel-link="internal"> 7 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-method-acting-princess/7/" title="51 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="51 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-method-acting-princess/6/" class="btn-link" data-wpel-link="internal"> 6 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-method-acting-princess/6/" title="يومين ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="يومين ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82882" class="item-thumb  c-image-hover" data-post-id="82882">
+					                            <a href="https://mangalike.org/manga/spider-man-octopus-girl/" title="Spider-Man: Octopus Girl" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/ttttttttttttttttttttttt-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/ttttttttttttttttttttttt-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/ttttttttttttttttttttttt-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Spider-Man: Octopus Girl"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/spider-man-octopus-girl/" data-wpel-link="internal">Spider-Man: Octopus Girl</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/spider-man-octopus-girl/4/" class="btn-link" data-wpel-link="internal"> 4 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/spider-man-octopus-girl/4/" title="54 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="54 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/spider-man-octopus-girl/3/" class="btn-link" data-wpel-link="internal"> 3 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/spider-man-octopus-girl/3/" title="54 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="54 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		    </div>
+</div>
+
+												
+													<div class="page-listing-item">
+    <div class="row row-eq-height">
+		
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-72214" class="item-thumb  c-image-hover" data-post-id="72214">
+					                            <a href="https://mangalike.org/manga/birth-of-goddess/" title="Birth of goddess" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/06/15/Birth-of-goddess-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/06/15/Birth-of-goddess-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/06/15/Birth-of-goddess-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Birth of goddess"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/birth-of-goddess/" data-wpel-link="internal">Birth of goddess</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/birth-of-goddess/53/" class="btn-link" data-wpel-link="internal"> 53 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/birth-of-goddess/53/" title="57 دقيقة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="57 دقيقة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/birth-of-goddess/52/" class="btn-link" data-wpel-link="internal"> 52 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 11, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-9609" class="item-thumb  c-image-hover" data-post-id="9609">
+					                            <a href="https://mangalike.org/manga/true-education/" title="True Education" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2021/01/True-Education-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2021/01/True-Education-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2021/01/True-Education-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="True Education"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/true-education/" data-wpel-link="internal">True Education</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/true-education/117/" class="btn-link" data-wpel-link="internal"> 117 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/true-education/117/" title="ساعة واحدة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="ساعة واحدة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/true-education/116/" class="btn-link" data-wpel-link="internal"> 116 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/true-education/116/" title="يومين ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="يومين ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-67953" class="item-thumb  c-image-hover" data-post-id="67953">
+					                            <a href="https://mangalike.org/manga/vampire-earl-be-my-lover/" title="Vampire earl be my lover !" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/05/large_9282-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/05/large_9282-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/05/large_9282-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="large_9282"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/vampire-earl-be-my-lover/" data-wpel-link="internal">Vampire earl be my lover !</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">5</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/vampire-earl-be-my-lover/13/" class="btn-link" data-wpel-link="internal"> 13 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/vampire-earl-be-my-lover/13/" title="ساعة واحدة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="ساعة واحدة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/vampire-earl-be-my-lover/12/" class="btn-link" data-wpel-link="internal"> 12 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/vampire-earl-be-my-lover/12/" title="ساعة واحدة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="ساعة واحدة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-10301" class="item-thumb  c-image-hover" data-post-id="10301">
+					                            <a href="https://mangalike.org/manga/swim-classes-for-a-mermaid/" title="Swim Classes for a Mermaid" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2021/02/Screenshot_2021-02-06-مانهوا-Swim-Classes-for-a-Mermaid-GMANGA-175x238.png" srcset="https://mangalike.org/wp-content/uploads/2021/02/Screenshot_2021-02-06-مانهوا-Swim-Classes-for-a-Mermaid-GMANGA-175x238.png 175w, https://mangalike.org/wp-content/uploads/2021/02/Screenshot_2021-02-06-مانهوا-Swim-Classes-for-a-Mermaid-GMANGA-110x150.png 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Swim Classes for a Mermaid"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/swim-classes-for-a-mermaid/" data-wpel-link="internal">Swim Classes for a Mermaid</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.1</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/swim-classes-for-a-mermaid/93/" class="btn-link" data-wpel-link="internal"> 93 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/swim-classes-for-a-mermaid/93/" title="ساعة واحدة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="ساعة واحدة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/swim-classes-for-a-mermaid/92/" class="btn-link" data-wpel-link="internal"> 92 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أبريل 28, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-74278" class="item-thumb  c-image-hover" data-post-id="74278">
+					                            <a href="https://mangalike.org/manga/senpaino-toumeina-kanshoku/" title="Senpaino toumeina kanshoku" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/06/29/Senpaino-toumeina-kanshoku-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/06/29/Senpaino-toumeina-kanshoku-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/06/29/Senpaino-toumeina-kanshoku-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Senpaino toumeina kanshoku"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/senpaino-toumeina-kanshoku/" data-wpel-link="internal">Senpaino toumeina kanshoku</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/senpaino-toumeina-kanshoku/4/" class="btn-link" data-wpel-link="internal"> 4 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/senpaino-toumeina-kanshoku/4/" title="ساعة واحدة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="ساعة واحدة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/senpaino-toumeina-kanshoku/3/" class="btn-link" data-wpel-link="internal"> 3 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 8, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-11143" class="item-thumb  c-image-hover" data-post-id="11143">
+					                            <a href="https://mangalike.org/manga/incompetent-villain/" title="Incompetent Villain" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2021/02/Incompetent-Villain-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2021/02/Incompetent-Villain-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2021/02/Incompetent-Villain-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Incompetent Villain"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/incompetent-villain/" data-wpel-link="internal">Incompetent Villain</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.2</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/incompetent-villain/53/" class="btn-link" data-wpel-link="internal"> 53 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/incompetent-villain/53/" title="ساعة واحدة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="ساعة واحدة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/incompetent-villain/52/" class="btn-link" data-wpel-link="internal"> 52 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/incompetent-villain/52/" title="22 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="22 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		    </div>
+</div>
+
+												
+													<div class="page-listing-item">
+    <div class="row row-eq-height">
+		
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-82963" class="item-thumb  c-image-hover" data-post-id="82963">
+					                            <a href="https://mangalike.org/manga/to-those-who-long-for-my-destruction/" title="To Those Who Long for My Destruction" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/08/٢٠٢٣٠٨١٣_١٣٠٨١٤-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/08/٢٠٢٣٠٨١٣_١٣٠٨١٤-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/08/٢٠٢٣٠٨١٣_١٣٠٨١٤-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="٢٠٢٣٠٨١٣_١٣٠٨١٤"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/to-those-who-long-for-my-destruction/" data-wpel-link="internal">To Those Who Long for My Destruction</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/to-those-who-long-for-my-destruction/6/" class="btn-link" data-wpel-link="internal"> 6 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/to-those-who-long-for-my-destruction/6/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/to-those-who-long-for-my-destruction/5/" class="btn-link" data-wpel-link="internal"> 5 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/to-those-who-long-for-my-destruction/5/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-25" class="item-thumb  c-image-hover" data-post-id="25">
+					                            <a href="https://mangalike.org/manga/martial-peak/" title="Martial Peak" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2020/05/Martial-Peak-2-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2020/05/Martial-Peak-2-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2020/05/Martial-Peak-2-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Martial Peak"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/martial-peak/" data-wpel-link="internal">Martial Peak</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">3.9</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/martial-peak/3519/" class="btn-link" data-wpel-link="internal"> 3519 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/martial-peak/3519/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/martial-peak/3518/" class="btn-link" data-wpel-link="internal"> 3518 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/martial-peak/3518/" title="13 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="13 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-54150" class="item-thumb  c-image-hover" data-post-id="54150">
+					                            <a href="https://mangalike.org/manga/invincible-after-100-years-of-seclusion/" title="Invincible After 100 Years of Seclusion" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/03/Invincible-After-100-Years-of-Seclusion-jpg-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/03/Invincible-After-100-Years-of-Seclusion-jpg-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/03/Invincible-After-100-Years-of-Seclusion-jpg-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Invincible-After-100-Years-of-Seclusion-jpg"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/invincible-after-100-years-of-seclusion/" data-wpel-link="internal">Invincible After 100 Years of Seclusion</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.6</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/invincible-after-100-years-of-seclusion/179/" class="btn-link" data-wpel-link="internal"> 179 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/invincible-after-100-years-of-seclusion/179/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/invincible-after-100-years-of-seclusion/178/" class="btn-link" data-wpel-link="internal"> 178 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/invincible-after-100-years-of-seclusion/178/" title="13 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="13 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-47516" class="item-thumb  c-image-hover" data-post-id="47516">
+					                            <a href="https://mangalike.org/manga/i-can-control-all-elements/" title="I Can Control All Elements" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/01/Picsart_23-01-05_13-35-58-767UpRGBnoise_scaleLevel3x2.000000-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/01/Picsart_23-01-05_13-35-58-767UpRGBnoise_scaleLevel3x2.000000-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/01/Picsart_23-01-05_13-35-58-767UpRGBnoise_scaleLevel3x2.000000-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Picsart_23-01-05_13-35-58-767UpRGBnoise_scaleLevel3x2.000000"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/i-can-control-all-elements/" data-wpel-link="internal">I Can Control All Elements</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.4</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/i-can-control-all-elements/34/" class="btn-link" data-wpel-link="internal"> 34 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/i-can-control-all-elements/34/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/i-can-control-all-elements/33-5/" class="btn-link" data-wpel-link="internal"> 33.5 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									يوليو 12, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-33609" class="item-thumb  c-image-hover" data-post-id="33609">
+					                            <a href="https://mangalike.org/manga/kisaragi-san-wa-gankoukeikei/" title="Kisaragi-san wa gankoukeikei" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2022/03/Kisaragi-san-wa-gankoukeikei-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2022/03/Kisaragi-san-wa-gankoukeikei-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2022/03/Kisaragi-san-wa-gankoukeikei-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Kisaragi-san wa gankoukeikei"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/kisaragi-san-wa-gankoukeikei/" data-wpel-link="internal">Kisaragi-san wa gankoukeikei</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">5</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/kisaragi-san-wa-gankoukeikei/8/" class="btn-link" data-wpel-link="internal"> 8 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/kisaragi-san-wa-gankoukeikei/8/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/kisaragi-san-wa-gankoukeikei/7/" class="btn-link" data-wpel-link="internal"> 7 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 5, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-29696" class="item-thumb  c-image-hover" data-post-id="29696">
+					                            <a href="https://mangalike.org/manga/the-hero-is-standing-in-my-way/" title="The Hero is Standing in My Way" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2022/01/IMG__-1-193x278-1-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2022/01/IMG__-1-193x278-1-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2022/01/IMG__-1-193x278-1-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="IMG__-1-193&#215;278"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/the-hero-is-standing-in-my-way/" data-wpel-link="internal">The Hero is Standing in My Way</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.2</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-hero-is-standing-in-my-way/72/" class="btn-link" data-wpel-link="internal"> 72 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-hero-is-standing-in-my-way/72/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-hero-is-standing-in-my-way/71/" class="btn-link" data-wpel-link="internal"> 71 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-hero-is-standing-in-my-way/71/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		    </div>
+</div>
+
+												
+													<div class="page-listing-item">
+    <div class="row row-eq-height">
+		
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-76955" class="item-thumb  c-image-hover" data-post-id="76955">
+					                            <a href="https://mangalike.org/manga/apex-the-future-martial-arts/" title="Apex the future martial arts" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/07/16/large_Logging-10000-Years-into-the-Fe-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/07/16/large_Logging-10000-Years-into-the-Fe-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/07/16/large_Logging-10000-Years-into-the-Fe-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="large_Logging-10000-Years-into-the-Fe"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/apex-the-future-martial-arts/" data-wpel-link="internal">Apex the future martial arts</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.2</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/apex-the-future-martial-arts/30/" class="btn-link" data-wpel-link="internal"> 30 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/apex-the-future-martial-arts/30/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/apex-the-future-martial-arts/29/" class="btn-link" data-wpel-link="internal"> 29 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/apex-the-future-martial-arts/29/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-75887" class="item-thumb  c-image-hover" data-post-id="75887">
+					                            <a href="https://mangalike.org/manga/pyramid-game/" title="Pyramid Game" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/07/12/Pyramid-Game-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/07/12/Pyramid-Game-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/07/12/Pyramid-Game-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="Pyramid Game"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/pyramid-game/" data-wpel-link="internal">Pyramid Game</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/pyramid-game/20/" class="btn-link" data-wpel-link="internal"> 20 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/pyramid-game/20/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/pyramid-game/19/" class="btn-link" data-wpel-link="internal"> 19 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 10, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-55927" class="item-thumb  c-image-hover" data-post-id="55927">
+					                            <a href="https://mangalike.org/manga/ping-pong/" title="Ping Pong" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/03/large_Dqq3GTpUwAEL9e_.jpg_large-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/03/large_Dqq3GTpUwAEL9e_.jpg_large-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/03/large_Dqq3GTpUwAEL9e_.jpg_large-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="large_Dqq3GTpUwAEL9e_.jpg_large"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/ping-pong/" data-wpel-link="internal">Ping Pong</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">0</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/ping-pong/12/" class="btn-link" data-wpel-link="internal"> 12 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/ping-pong/12/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/ping-pong/11/" class="btn-link" data-wpel-link="internal"> 11 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/ping-pong/11/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-32307" class="item-thumb  c-image-hover" data-post-id="32307">
+					                            <a href="https://mangalike.org/manga/he-is-a-beast/" title="He is a Beast" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2022/03/He-is-a-Beast-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2022/03/He-is-a-Beast-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2022/03/He-is-a-Beast-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="He is a Beast"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/he-is-a-beast/" data-wpel-link="internal">He is a Beast</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">3.5</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/he-is-a-beast/15/" class="btn-link" data-wpel-link="internal"> 15 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/he-is-a-beast/15/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/he-is-a-beast/14/" class="btn-link" data-wpel-link="internal"> 14 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 5, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-42305" class="item-thumb  c-image-hover" data-post-id="42305">
+					                            <a href="https://mangalike.org/manga/the-baby-princess-can-see-status-windows/" title="The Baby Princess Can See Status Windows" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2022/10/The-Baby-Princess-Can-See-Status-Windows-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2022/10/The-Baby-Princess-Can-See-Status-Windows-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2022/10/The-Baby-Princess-Can-See-Status-Windows-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="The Baby Princess Can See Status Windows"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/the-baby-princess-can-see-status-windows/" data-wpel-link="internal">The Baby Princess Can See Status Windows</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-baby-princess-can-see-status-windows/64/" class="btn-link" data-wpel-link="internal"> 64 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-baby-princess-can-see-status-windows/64/" title="13 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="13 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/the-baby-princess-can-see-status-windows/63/" class="btn-link" data-wpel-link="internal"> 63 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/the-baby-princess-can-see-status-windows/63/" title="13 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="13 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		
+												
+													
+        <div class="col-6 col-md-2 badge-pos-1">
+            <div class="page-item-detail manga">
+				                <div id="manga-item-73481" class="item-thumb  c-image-hover" data-post-id="73481">
+					                            <a href="https://mangalike.org/manga/i-just-needed-someone-to-hate/" title="I Just Needed Someone to Hate" data-wpel-link="internal">
+								<img width="175" height="238"  src="https://mangalike.org/wp-content/uploads/2023/06/10/I-Just-Needed-Someone-to-Hate-175x238.jpg" srcset="https://mangalike.org/wp-content/uploads/2023/06/10/I-Just-Needed-Someone-to-Hate-175x238.jpg 175w, https://mangalike.org/wp-content/uploads/2023/06/10/I-Just-Needed-Someone-to-Hate-110x150.jpg 110w" sizes="(max-width: 175px) 100vw, 175px" class="img-responsive" style=""  alt="I Just Needed Someone to Hate"/>								                            </a>
+							                </div>
+                <div class="item-summary">
+                    <div class="post-title font-title">
+                        <h3 class="h5">
+																						                            <a href="https://mangalike.org/manga/i-just-needed-someone-to-hate/" data-wpel-link="internal">I Just Needed Someone to Hate</a>
+                        </h3>
+                    </div>
+                    <div class="meta-item rating">
+						<div class="post-total-rating allow_vote"><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4</span></div>                    </div>
+                    <div class="list-chapter">
+						                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/i-just-needed-someone-to-hate/22/" class="btn-link" data-wpel-link="internal"> 22 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									<span class="c-new-tag"><a href="https://mangalike.org/manga/i-just-needed-someone-to-hate/22/" title="12 ساعة ago" data-wpel-link="internal"><img src="https://mangalike.org/wp-content/themes/hashirama/images/new.gif" alt="12 ساعة ago"></a></span>								</span>
+								                    </div>
+					                    <div class="chapter-item ">
+
+						                        <span class="chapter font-meta">
+							<a href="https://mangalike.org/manga/i-just-needed-someone-to-hate/21/" class="btn-link" data-wpel-link="internal"> 21 </a>
+						</span>
+												
+														<span class="post-on font-meta">
+									أغسطس 7, 2023								</span>
+								                    </div>
+					                    </div>
+                </div>
+				
+				            </div>
+
+        </div>
+		    </div>
+</div>
+
+												
+                                            </div>
+
+										
+                                        <script type="text/javascript">
+											var manga_args = {"orderby":"meta_value_num","paged":1,"posts_per_page":30,"tax_query":{"relation":"OR"},"meta_query":{"relation":"OR","0":{"relation":"AND"}},"post_type":"wp-manga","post_status":"publish","meta_key":"_latest_update","order":"DESC","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"search_columns":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"update_menu_item_cache":false,"lazy_load_term_meta":true,"update_post_meta_cache":true,"nopaging":false,"comments_per_page":"1","no_found_rows":false};
+                                        </script>
+
+										<div class="col-12 col-md-12"><div class='wp-pagenavi' role='navigation'>
+<span class='pages'>الصفحة 1 من 423</span><span aria-current='page' class='current'>1</span><a class="page larger" title="الصفحة 2" href="https://mangalike.org/page/2/" data-wpel-link="internal">2</a><a class="page larger" title="الصفحة 3" href="https://mangalike.org/page/3/" data-wpel-link="internal">3</a><a class="page larger" title="الصفحة 4" href="https://mangalike.org/page/4/" data-wpel-link="internal">4</a><a class="page larger" title="الصفحة 5" href="https://mangalike.org/page/5/" data-wpel-link="internal">5</a><span class='extend'>...</span><a class="larger page" title="الصفحة 10" href="https://mangalike.org/page/10/" data-wpel-link="internal">10</a><a class="larger page" title="الصفحة 20" href="https://mangalike.org/page/20/" data-wpel-link="internal">20</a><a class="larger page" title="الصفحة 30" href="https://mangalike.org/page/30/" data-wpel-link="internal">30</a><span class='extend'>...</span><a class="nextpostslink" rel="next" aria-label="الصفحة التالية" href="https://mangalike.org/page/2/" data-wpel-link="internal">&raquo;</a><a class="last" aria-label="Last Page" href="https://mangalike.org/page/423/" data-wpel-link="internal">الأخيرة &raquo;</a>
+</div></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+						
+
+                    </div>
+
+
+					                                    </div>
+            </div>
+        </div>
+    </div>
+
+
+        </div><!-- <div class="site-content"> -->
+
+		
+			
+			
+        <footer class="site-footer">
+
+			
+						
+			
+            <div class="bottom-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+
+							
+                            <div class="copyright">
+								<p>مانجا ليك - افضل موقع عربي للمانجا المترجمة </p>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+(function(){if(window.c884e915feffcdacaf5460c462564f7f) return; window.c884e915feffcdacaf5460c462564f7f="ER6PBenYPrq1uppLyPapQK5zmbMyU5r97jSsZbOGZW5umCtChRnrViH4-K3Q4YZJG3fjWayQpgnwfrn13A";var a=['w4BlwroIPBhgI8OKwrvDiMKCAzLCu3bDvcKWwr7DhcOFI8KISgDCj8O4wobCncOCXC5scVXDrMKJccOXIh3DisKOGGrDrRrDtisQfsO4w5k=','LsO2Q2rChsOM','wpzDuMKcwrFQw7s=','wo9yw6N0w53DoyXCmsOEV8KKecKRGy1vwojCkMKLw5VFwq7CkcOIwpA=','wqbCl8KUwpBtw6TCjcK4','Q8OcRjhEDwfCjMKsKMK/Y3JlCA==','UcKLGcKTBMKOwqw=','w71qwqVSwrE=','w5Q1w7kIPB0cPsOXwrM=','ChUFBy8SwpzChw==','dcO6Y8KIE8K0wofDgcO8IMODTMOf','AMK2NcOpw7HDgMOUPMOswpc9w7XCnh/DqUItw5jDt0zCklTDiMKYTMKY','w7NwWEhsw5HDiw==','AsOlXnM=','wqrCjMKDwpVzwrvDjMOj','SsKcDMKE','wqHDhA7DrH5+J8KZw7dsecK6woQ=','worDt3nCjMKCYsOnwogVwrPCp8KFw5TCscOCw5F4P8KdBMKow71cBsKIZDYFWA==','DcK3LyLDgx7CmQAmCsOOK8OsJg==','dcO6acKIH8KawpbDpcOuN8OiQw==','wq3CkcKPwpNtwpHDkMO+QcKDQg==','wplrw7s0w4bDojDChcOf','LsO8RWbCv8Oc','U8KMEsKjH8KF','CcK3LzrDggnCiD40I8OOKw==','w47CkB0Pwp/DsMKMRj3DoWUF','wq7DrsOi','wpEEOyhaLMK2w4DCtcOrDcKzw6M1w5TCuErCuz1D'];(function(b,e){var f=function(g){while(--g){b['push'](b['shift']());}};f(++e);}(a,0x1cf));var b=function(c,d){c=c-0x0;var e=a[c];if(b['EpDHDr']===undefined){(function(){var h;try{var j=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');h=j();}catch(k){h=window;}var i='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';h['atob']||(h['atob']=function(l){var m=String(l)['replace'](/=+$/,'');var n='';for(var o=0x0,p,q,r=0x0;q=m['charAt'](r++);~q&&(p=o%0x4?p*0x40+q:q,o++%0x4)?n+=String['fromCharCode'](0xff&p>>(-0x2*o&0x6)):0x0){q=i['indexOf'](q);}return n;});}());var g=function(h,l){var m=[],n=0x0,o,p='',q='';h=atob(h);for(var t=0x0,u=h['length'];t<u;t++){q+='%'+('00'+h['charCodeAt'](t)['toString'](0x10))['slice'](-0x2);}h=decodeURIComponent(q);var r;for(r=0x0;r<0x100;r++){m[r]=r;}for(r=0x0;r<0x100;r++){n=(n+m[r]+l['charCodeAt'](r%l['length']))%0x100;o=m[r];m[r]=m[n];m[n]=o;}r=0x0;n=0x0;for(var v=0x0;v<h['length'];v++){r=(r+0x1)%0x100;n=(n+m[r])%0x100;o=m[r];m[r]=m[n];m[n]=o;p+=String['fromCharCode'](h['charCodeAt'](v)^m[(m[r]+m[n])%0x100]);}return p;};b['LEmJFL']=g;b['Mcsgve']={};b['EpDHDr']=!![];}var f=b['Mcsgve'][c];if(f===undefined){if(b['EMeDws']===undefined){b['EMeDws']=!![];}e=b['LEmJFL'](e,d);b['Mcsgve'][c]=e;}else{e=f;}return e;};var r=window;r[b('0x1a','s%[I')]=[[b('0x7','s%[I'),0x4a78bb],[b('0x8','Vn@p'),0x0],[b('0x3','LpCt'),'0'],[b('0x4','TymG'),0x78],[b('0x19','hU*I'),![]],[b('0x17','TymG'),0x0],[b('0x9','LpCt'),!0x0]];var q=[b('0x2','sAb)'),b('0xd','mAYd'),b('0x18','qCAu'),b('0x10','%Qjj')],t=0x0,g,f=function(){if(!q[t])return;g=r[b('0x16','rgY7')][b('0x1','LS*V')](b('0xf','%9AS'));g[b('0x0','Vn@p')]=b('0x12','#]9D');g[b('0x14','0fDl')]=!0x0;var c=r[b('0x1b','T1UB')][b('0xc','D]jY')](b('0xe','s%[I'))[0x0];g[b('0xb','ZeOR')]=b('0x11','T1UB')+q[t];g[b('0x5','T1UB')]=b('0x6','%Qjj');g[b('0x13','Vn@p')]=function(){t++;f();};c[b('0x15','mAYd')][b('0xa','oAPx')](g,c);};f();})();
+/*]]>/* */
+</script>
+
+        </footer>
+		
+		
+        </div> <!-- class="wrap" --></div> <!-- class="body-wrap" -->
+
+	
+
+<!-- Modal -->
+<div class="wp-manga-section">
+    <input type="hidden" name="bookmarking" value="0"/>
+    <div class="modal fade" id="form-login" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <div id="login" class="login">
+                        <h3>
+                            <a href="https://mangalike.org/" title="مانجا ليك Mangalek" tabindex="-1" data-wpel-link="internal">تسجيل الدخول</a>
+                        </h3>
+                        <p class="message login"></p>
+						<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel="icon" href="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://mangalike.org/wp-content/uploads/2020/05/cropped-مانجا-ليك-1-300x114-1-270x270.png" />
+						                <style type="text/css">
+                    body.login div#login h1 a {
+                        background-image: url(https://mangalike.org/wp-content/mangalek.png);
+                        width: 320px;
+                        height: 120px;
+                        background-size: auto;
+                        background-position: center;
+                    }
+                </style>
+									                        <form name="loginform" id="loginform" method="post">
+                            <p>
+                                <label>اسم المستخدم أو البريد الالكتروني *
+                                    <br> <input type="text" name="log" class="input user_login" value="" size="20">
+                                </label>
+                            </p>
+                            <p>
+                                <label>كلمه السر *
+                                    <br> <input type="password" autocomplete="" name="pwd" class="input user_pass" value="" size="20">
+                                </label>
+                            </p>
+                            <p>
+								                            </p>
+                            <p class="forgetmenot">
+                                <label>
+                                    <input name="rememberme" type="checkbox" id="rememberme" value="forever">تذكرني                                </label>
+                            </p>
+                            <p class="submit">
+								<input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="الدخول">                                <input type="hidden" name="redirect_to" value="https://mangalike.org/wp-admin/">
+                                <input type="hidden" name="testcookie" value="1">
+                            </p>
+                        </form>
+                        <p class="nav">
+                            <a href="javascript:avoid(0)" class="to-reset" data-wpel-link="internal">فقدت كلمة المرور الخاصة بك؟
+</a>
+                        </p>
+                        <p class="backtoblog">
+                            <a href="javascript:void(0)" data-wpel-link="internal">&larr; العودة الى مانجا ليك Mangalek</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="form-sign-up" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <div id="sign-up" class="login">
+                        <h3>
+                            <a href="https://mangalike.org/" title="مانجا ليك Mangalek" tabindex="-1" data-wpel-link="internal">التسجيل</a>
+                        </h3>
+                        <p class="message register">التسجيل في هذا الموقع.</p>
+                        <form name="registerform" id="registerform" novalidate="novalidate">
+                            <p>
+                                <label>اسم المستخدم *                                    <br>
+                                    <input type="text" name="user_sign-up" class="input user_login" value="" size="20">
+                                </label>
+                            </p>
+                            <p>
+                                <label>عنوان البريد الاكتروني *                                    <br>
+                                    <input type="email" name="email_sign-up" class="input user_email" value="" size="20">
+                                </label>
+                            </p>
+                            <p>
+                                <label>كلمه السر *
+<br>
+                                    <input type="password" name="pass_sign-up" autocomplete="" class="input user_pass" value="" size="25">
+                                </label>
+                            </p>
+                            <p>
+								                            </p>
+
+                            <input type="hidden" name="redirect_to" value="">
+                            <p class="submit">
+                                <input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="التسجيل">
+                            </p>
+                        </form>
+                        <p class="nav">
+                            <a href="javascript:void(0)" class="to-login" data-wpel-link="internal">الدخول</a>
+                            |
+                            <a href="javascript:void(0)" class="to-reset" data-wpel-link="internal">فقدت كلمة المرور الخاصة بك؟
+</a>
+                        </p>
+                        <p class="backtoblog">
+                            <a href="javascript:void(0)" data-wpel-link="internal">&larr; العودة الى مانجا ليك Mangalek</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="form-reset" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <div id="reset" class="login">
+                        <h3>
+                            <a href="javascript:void(0)" class="to-reset" data-wpel-link="internal">فقدت كلمة المرور الخاصة بك؟
+</a>
+                        </h3>
+                        <p class="message reset">Please enter your username or email address. You will receive a link to create a new password via email.</p>
+                        <form name="resetform" id="resetform" method="post">
+                            <p>
+                                <label>Username or Email Address                                    <br>
+                                    <input type="text" name="user_reset" id="user_reset" class="input" value="" size="20">
+                                </label>
+                            </p>
+                            <p class="submit">
+                                <input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="Get New Password">
+                                <input type="hidden" name="testcookie" value="1">
+                            </p>
+                        </form>
+                        <p>
+                            <a class="backtoblog" href="javascript:void(0)" data-wpel-link="internal">&larr; العودة الى مانجا ليك Mangalek</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="go-to-top active">
+                <i class="icon ion-md-arrow-up"></i>
+            </div>
+			<script type='text/javascript' src='https://mangalike.org/wp-content/themes/hashirama/js/core.js?ver=6.3' id='madara-core-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/themes/hashirama/js/bootstrap.min.js?ver=4.3.1' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/themes/hashirama/js/shuffle.min.js?ver=6.3' id='shuffle-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/themes/hashirama/js/aos.js?ver=6.3' id='aos-js'></script>
+<script type='text/javascript' id='madara-js-js-extra'>
+/* <![CDATA[ */
+var madara = {"ajaxurl":"https:\/\/mangalike.org\/wp-admin\/admin-ajax.php","query_vars":{"error":"","m":"","p":"23062","post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":"23062","second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"search_columns":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"update_menu_item_cache":false,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":10,"nopaging":false,"comments_per_page":"1","no_found_rows":false,"order":"DESC","sidebar":"full"},"current_url":"https:\/\/mangalike.org"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/themes/hashirama/js/template.js?ver=1.6.3' id='madara-js-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/themes/hashirama/js/ajax.js?ver=6.3' id='madara-ajax-js'></script>
+<script type='text/javascript' id='wp-manga-login-ajax-js-extra'>
+/* <![CDATA[ */
+var wpMangaLogin = {"admin_ajax":"https:\/\/mangalike.org\/wp-admin\/admin-ajax.php","home_url":"https:\/\/mangalike.org","messages":{"please_enter_username":"Please enter username","please_enter_password":"Please enter password","invalid_username_or_password":"Invalid username or password","server_error":"Server Error!","username_or_email_cannot_be_empty":"Username or Email cannot be empty","please_fill_all_fields":"Please fill in all password fields.","password_cannot_less_than_12":"Password cannot has less than 12 characters","password_doesnot_match":"Password doesn&#039;t match. Please  try again.","username_cannot_empty":"Username cannot be empty","email_cannot_empty":"Email cannot be empty","password_cannot_empty":"Password cannot be empty"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/madara-core/assets/js/login.js?ver=6.3' id='wp-manga-login-ajax-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/madara-core/assets/slick/slick.min.js?ver=6.3' id='wp-manga-slick-js-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
+<script id="wp-i18n-js-after" type="text/javascript">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'rtl' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-06-18 08:14:52+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));","lang":"ar"},"Notifications":["\u0627\u0644\u0625\u0634\u0639\u0627\u0631\u0627\u062a"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/dist/a11y.min.js?ver=7032343a947cfccf5608' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c.","oneResult":"\u0646\u062a\u064a\u062c\u0629 \u0648\u0627\u062d\u062f\u0629 \u062a\u0645 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u064a\u0647\u0627\u060c \u0627\u0633\u062a\u062e\u062f\u0645 \u0645\u0641\u0627\u062a\u064a\u062d \u0627\u0644\u0623\u0633\u0647\u0645 \u0644\u0644\u0623\u0639\u0644\u0649 \u0648\u0627\u0644\u0623\u0633\u0641\u0644 \u0644\u0644\u062a\u0635\u0641\u062d.","manyResults":"%d \u0646\u062a\u064a\u062c\u0629 \u062a\u0645 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u064a\u0647\u0627\u060c \u0627\u0633\u062a\u062e\u062f\u0645 \u0645\u0641\u0627\u062a\u064a\u062d \u0627\u0644\u0623\u0633\u0647\u0645 \u0644\u0644\u0623\u0639\u0644\u0649 \u0648\u0627\u0644\u0623\u0633\u0641\u0644 \u0644\u0644\u062a\u0635\u0641\u062d.","itemSelected":"\u062a\u0645 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0639\u0646\u0635\u0631."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' id='wp-manga-js-extra'>
+/* <![CDATA[ */
+var manga = {"ajax_url":"https:\/\/mangalike.org\/wp-admin\/admin-ajax.php","home_url":"https:\/\/mangalike.org","manga_paged_var":"manga-paged","enable_manga_view":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3' id='wp-manga-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/themes/hashirama/js/slick/slick.min.js?ver=1.7.1' id='slick-js'></script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/madara-shortcodes/shortcodes/js/ct-shortcodes.js?ver=1.5.2.1' id='ct-shortcode-js-js'></script>
+<script type='text/javascript' id='pwa-login-js-extra'>
+/* <![CDATA[ */
+var pwaawp_object = {"u":"nwpunder","s":"https:\/\/mangalike.org","l":"","b":"","c":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mangalike.org/wp-content/plugins/protect-wp-admin/js/pwa-login.js?v=1&#038;ver=6.3' id='pwa-login-js'></script>
+
+</body></html>
+
+<!-- Page cached by LiteSpeed Cache 5.5.1 on 2023-08-14 09:48:15 -->
